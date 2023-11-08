@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Draws a parabolic path of houses with different colors 
+ * @author: Gordon Z 
  *
  */
 class Main {
